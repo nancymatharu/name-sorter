@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "name-sorter": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\Amrit\\OneDrive\\Desktop\\testingtxtfile.txt",
+      "workingDirectory": "C:\\Users\\Amrit\\source\\repos\\name-sorter"
+    }
+  }
+}
